@@ -43,7 +43,7 @@ Vanilla JavaScript with ES6 syntax to implement all logic of quizzes, handling e
 No external libraries or frameworks, like React, Angular, jQuery, or Bootstrap, are used. The project is kept simple, lightweight, and perfect for beginners who would like to understand clearly how everything works under the hood.
 
 ## Key Features
--Dynamic loading of quiz questions from a JavaScript array (quizData).
+- Dynamic loading of quiz questions from a JavaScript array (quizData).
 -Multiple-choice questions: the system provides immediate correct/wrong feedback.
 Per-question countdown timer with a visual timer badge.
 Real-time score tracking, progress bar showing current question / total.
