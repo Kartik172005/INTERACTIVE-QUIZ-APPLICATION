@@ -73,4 +73,8 @@ Once the last question is complete, the main quiz screen is replaced by a result
 
 
 ## Where This Project Can Be Used
-This quiz application can be used as an - A **learning tool** for students who are preparing for JavaScript exams, interviews, or online tests. - A **practice project** to showcase in a web development portfolio or GitHub profile. - A mini assignment or college project showcasing an understanding of HTML, CSS, JavaScript, timers, `localStorage`, and manipulation of the DOM. - A reusable **template** that can be readily adapted for other subjects such as HTML, CSS, general knowledge, aptitude, or any other programming language. You can further extend it by adding question categories, difficulty levels, a question bank loaded from JSON, or even connect it to a backend if you want to store user results online.
+This quiz application can be used as an 
+- A **learning tool** for students who are preparing for JavaScript exams, interviews, or online tests.
+- A **practice project** to showcase in a web development portfolio or GitHub profile.
+- A mini assignment or college project showcasing an understanding of HTML, CSS, JavaScript, timers, `localStorage`, and manipulation of the DOM.
+- A reusable **template** that can be readily adapted for other subjects such as HTML, CSS, general knowledge, aptitude, or any other programming language. You can further extend it by adding question categories, difficulty levels, a question bank loaded from JSON, or even connect it to a backend if you want to store user results online.
