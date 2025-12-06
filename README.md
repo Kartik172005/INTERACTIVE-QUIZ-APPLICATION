@@ -81,4 +81,4 @@ This quiz application can be used as an
 
 ## Output
 <img width="1916" height="870" alt="Image" src="https://github.com/user-attachments/assets/eda0951d-bb7b-4c96-8354-bc07456200d2" />
-<img width="1916" height="867" alt="Image" src="https://github.com/user-attachments/assets/7b5845fa-af93-4688-83b7-728b8b79f152" />
+<img width="1914" height="866" alt="Image" src="https://github.com/user-attachments/assets/4fe6a4e6-a34c-4bf9-9116-5b98f4049e18" />
