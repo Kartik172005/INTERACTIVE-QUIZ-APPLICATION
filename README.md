@@ -78,3 +78,7 @@ This quiz application can be used as an
 - A **practice project** to showcase in a web development portfolio or GitHub profile.
 - A mini assignment or college project showcasing an understanding of HTML, CSS, JavaScript, timers, `localStorage`, and manipulation of the DOM.
 - A reusable **template** that can be readily adapted for other subjects such as HTML, CSS, general knowledge, aptitude, or any other programming language. You can further extend it by adding question categories, difficulty levels, a question bank loaded from JSON, or even connect it to a backend if you want to store user results online.
+
+## Output
+<img width="1916" height="867" alt="Image" src="https://github.com/user-attachments/assets/7b5845fa-af93-4688-83b7-728b8b79f152" />
+<img width="1916" height="870" alt="Image" src="https://github.com/user-attachments/assets/eda0951d-bb7b-4c96-8354-bc07456200d2" />
